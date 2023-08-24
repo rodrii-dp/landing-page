@@ -131,6 +131,18 @@ li {
     padding: 30px;
 }
 
+.quote-section {
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.quote-credits {
+    padding: 15px 35px;
+    align-self: flex-end;
+}
+
 .call-to-action-wrapper {
     background-color: white;
     display: flex;
